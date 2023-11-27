@@ -1,0 +1,10 @@
+[package]
+name = "quantum_pack"
+version = "0.1.0"
+edition = "2018"
+
+# Dependencies can be added here
+# [dependencies]
+
+[lib]
+path = "src/lib.rs"
